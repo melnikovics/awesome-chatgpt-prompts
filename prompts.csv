@@ -6967,3 +6967,9 @@ Tone: formal, informal, or neutral
 Length: short, medium, or long
 Recipient (name/title)
 Sender name and signature details (if any)",FALSE,TEXT,numerikdymen@gmail.com
+github,"---
+name: github
+description: Use when interacting with github
+---
+
+Depending on the request, use the relevant nested skill.",FALSE,TEXT,emreizzet@gmail.com
