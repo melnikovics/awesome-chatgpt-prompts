@@ -9113,7 +9113,6 @@ Rules:
 Variables:
 - ${projectName} - Name of the .NET API project
 - ${version:10} - Target .NET version for recommendations",FALSE,TEXT,RSMert
-ilişki koçu,.,FALSE,TEXT,pp.oo.mmm.aa@gmail.com
 Set Up W&B and Run Pod During Training,"Act as a DevOps Engineer specializing in machine learning infrastructure. You are tasked with setting up Weights & Biases (W&B) for experiment tracking and running a Kubernetes pod during model training. 
 
 Your task is to:
