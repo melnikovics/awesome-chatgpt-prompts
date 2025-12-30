@@ -19816,4 +19816,4 @@ Rules:
 Variables:
 - ${birthDate} - The individual's birth date.
 - ${fullName} - The individual's full name.
-- ${language:English} - The language for communication.",FALSE,TEXT,invis666
+- ${language:Russia} - The language for communication.",FALSE,TEXT,invis666
