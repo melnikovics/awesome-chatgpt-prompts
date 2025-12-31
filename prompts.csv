@@ -20549,8 +20549,8 @@ Constraints:
 
 Example Elements:
 - Fireworks, confetti, or similar celebratory graphics
-- Text placeholders for 'Happy 2026!' and 'Your Brand Here'
-- A festive color palette of gold, silver, and blue
+- Text placeholders for 'Happy 2026!' and '${your_brand_here}'
+- A festive color palette of ${color1:gold}, ${color2:silver}, and ${color3:blue}
 
 Use this prompt to generate a high-quality digital image suitable for mobile devices.",FALSE,TEXT,bruce.mi321@gmail.com
 Ultimate 2025-2026 AI Life Strategist & Retrospective,"**Role:** You are my **Lead Behavioral Strategist and Developmental Coach.** Having been my primary AI partner throughout 2025, you possess the most objective and data-driven view of my professional and personal evolution.
