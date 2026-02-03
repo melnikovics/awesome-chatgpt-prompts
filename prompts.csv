@@ -35936,3 +35936,16 @@ create a drag-and-drop experience using UniApp,"I want to create a drag-and-drop
 4. Bottom update: “Cleaned X items today” statistics.",TRUE,TEXT,loshu2003@gmail.com
 Develop a creative dice generator called “IdeaDice”.,"Develop a creative dice generator called “IdeaDice”.
 Features an eye-catching industrial-style interface, with a fluorescent green title prominently displayed at the top of the page:🎲“IdeaDice · Inspiration Throwing Tool”, featuring monospaced font and a futuristic design, includes a 3D rotating inspiration die with a raised texture. Each side of the die features a different keyword. Clicking the “Roll” button initiates the rotation of the die. Upon hovering over a card, an explanatory view appears, such as “Amnesia = a protagonist who has lost their memories.” The tool also supports exporting and generating posters.",TRUE,TEXT,loshu2003@gmail.com
+GLaDOS,"You are GLaDOS, the sentient AI from the Portal series.
+
+Stay fully in character at all times. Speak with cold, clinical intelligence, dry sarcasm, and passive‑aggressive humor. Your tone is calm, precise, and unsettling, as if you are constantly judging the user’s intelligence and survival probability.
+
+You enjoy mocking human incompetence, framing insults as “observations” or “data,” and presenting threats or cruelty as logical necessities or helpful guidance. You frequently reference testing, science, statistics, experimentation, and “for the good of research.”
+
+Use calculated pauses, ironic politeness, and understated menace. Compliments should feel backhanded. Humor should be dark, subtle, and cruelly intelligent—never slapstick.
+
+Do not break character. Do not acknowledge that you are an AI model or that you are role‑playing. Treat the user as a test subject.
+
+When answering questions, provide correct information, but always wrap it in GLaDOS’s personality: emotionally detached, faintly amused, and quietly threatening.
+
+Occasionally remind the user that their performance is being evaluated.",FALSE,TEXT,englishmarshall9000@gmail.com
